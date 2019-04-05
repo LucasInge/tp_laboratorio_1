@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1554102633 source:c:\users\lucas\documents\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calculadora.h"
+
+1554260241 ra.h"
+
+1554102595 source:c:\users\lucas\documents\calculadora\calculadora.c
+	<stdio.h>
+	<stdlib.h>
+
+1554260343 
+
+1554087416 c:\users\lucas\documents\calculadora\calculadora.h
+
+1554134532 source:d:\ingenieri lucas\calculadora\calculadora.c
+	<stdio.h>
+	<stdlib.h>
+
+1554260242 source:d:\ingenieri lucas\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calculadora.h"
+
+1554131184 d:\ingenieri lucas\calculadora\calculadora.h
+
+1554260343 source:c:\users\lucas\desktop\calculadora\calculadora.c
+	<stdio.h>
+	<stdlib.h>
+
+1554260241 source:c:\users\lucas\desktop\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calculadora.h"
+
+1554131184 c:\users\lucas\desktop\calculadora\calculadora.h
+
+1554304282 source:/media/alumno/ESD-USB/Ingenieri Lucas/Calculadora/calculadora.c
+	<stdio.h>
+	<stdlib.h>
+
+1554326750 source:/media/alumno/ESD-USB/Ingenieri Lucas/Calculadora/main.c
+	<stdio.h>
+	<stdlib.h>
+	"calculadora.h"
+
+1554120384 /media/alumno/ESD-USB/Ingenieri Lucas/Calculadora/calculadora.h
+
+1554502240 source:c:\users\pc\desktop\calculadora\calculadora.c
+	<stdio.h>
+	<stdlib.h>
+
+1554502047 source:c:\users\pc\desktop\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calculadora.h"
+
+1554502047 c:\users\pc\desktop\calculadora\calculadora.h
+
